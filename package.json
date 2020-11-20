@@ -2,7 +2,7 @@
   "name": "maketacioncss",
   "version": "1.0.0",
   "description": "Practica de Curso de Maquetacion con CSS de Platzi con Diego de Granda.",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
